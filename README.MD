@@ -6,14 +6,14 @@ Este é um projeto pessoal inspirado em um desafio técnico para uma vaga de bac
 ### PROJETO ORIGINAL
 No projeto original a proposta é uma API feita na linguagem Crystal para planejamento de viagens no universo de Rick and Morty. Uma API um apenas um recurso (/travel-plans), que representa um plano de viagem de forma que cada elemento do array travel_stops é o ID de uma localização na Rick and Morty API.
 
-### Adaptação do Projeto
+### ADAPTAÇÃO DO PROJETO
 Nessa adaptação estou utilizando Node.js, Express.js e Typescript para criação da API e implementando um modelo de autenticação para que cada usuário tenha acesso ao seu própio “Travel Booker”.
 
 ## ENDPOINTS
 
-## login
+## Login
 * POST /auth/login
-## registro
+## Registro
 * POST /auth/register
 
 ## Obtenção de todos os planos de viagem
