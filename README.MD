@@ -42,7 +42,7 @@ Nessa adaptação estou utilizando Node.js, Express.js e Typescript para criaç�
 * Express.js
 * Typescript
 * Mongoose
-* MongoGb
+* MongoDB
 
 
 
